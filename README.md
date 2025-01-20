@@ -1,4 +1,6 @@
+https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR YOUR +SUPPORT-DONT; FORGET+SATAR+FORK+MYREPO;CREATED+BY+𝑯𝒂𝒄𝒌𝒆𝒓 𝑻𝑭;RELEASED+24-12-2024" alt="Typing SVG" /></a>
 # Hacker-TF-MD
+
 ![Image](https://github.com/user-attachments/assets/5e5894e7-c703-4772-9d33-a6b4d6e3b15f)
 
 
