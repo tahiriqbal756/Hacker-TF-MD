@@ -44,8 +44,6 @@ a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.c
  
 ![license](https://img.shields.io/github/license/MRSHABAN40/SHABAN-SOBX-MD?color=green&label=License&style=plastic)
 
-### 𝗟𝗜𝗖𝗘𝗡𝗦𝗘: [Click here](https://github.com/MRSHABAN40/SHABAN-SOBX-MD/blob/main/LICENSE)
--------------------------
 
 ***BOT FEATURES 💌***
 
