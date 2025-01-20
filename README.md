@@ -27,3 +27,13 @@ a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.c
 <p align="center">
 <a href='https://huggingface.co/spaces/mrshaban1/SHABAN-MD' target="_blank"><img alt='huggingface' src='https://img.shields.io/badge/-huggingface Deploy-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white'/< width=150 height=28/p></a> </a>
 
+
+
+**Pair HuggingFace (Session ID)**
+
+<a href='https://panel-pair.onrender.com' target="_blank">
+  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-cyan?style=for-the-badge&logo=opencv&logoColor=black'/>
+</a>
+<br>
+
+-------------------------
