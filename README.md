@@ -57,7 +57,7 @@ Work
 `⚡ HOW TO DEPLOY SHABAN-SOBX-MD ON WORKFLOWS FREE GITHUB WATCH VIDEO 👇`
 
 <p align="center">
-   <a href="https://youtu.be/xxw7uG5Xb6M?si=cwdTifhYH5INDSFD"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
+   <a href="[[https://youtu.be/xxw7uG5Xb6M?si=cwdTifhYH5INDSFD](https://whatsapp.com/channel/0029VaqJhPt6hENl2eYTwd1i)](https://whatsapp.com/channel/0029VaqJhPt6hENl2eYTwd1i)"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
     </a>
 </p>
 
