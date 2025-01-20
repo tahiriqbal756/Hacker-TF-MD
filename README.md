@@ -19,11 +19,7 @@ a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.c
  </></a>
  
 [![Contact Me on WhatsApp](https://img.shields.io/static/v1?label=Contact%20Me%20on%20WhatsApp&message=Message&color=25D366&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923321709972)
-[![Follow My WhatsApp Channel](https://img.shields.io/static/v1?label=Follow%20My%20WhatsApp%20Channel&message=follow&color=25D366&style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VaqJhPt6hENl2eYTwd1i) 
-[![Subscribe to My Channel on YouTube](https://img.shields.io/static/v1?label=Subscribe%20to%20My%20Channel&message=YouTube&color=FF0000&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@mrshaban282?si=Mmp8uT0UZsRqvKnq)
-[![Follow My GitHub](https://img.shields.io/static/v1?label=Follow%20My%20GitHub&message=GitHub&color=181717&style=for-the-badge&logo=github&logoColor=white)](https://github.com/tahiriqbal756/Hacker-TF-MD.git)
 
-<a          
 
 ***BOT FEATURES 💌***
 
