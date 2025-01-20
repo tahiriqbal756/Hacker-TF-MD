@@ -10,3 +10,13 @@ a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.c
 
 <img src="[https://i.imgur.com/dBaSKWF.gif](https://github.com/user-attachments/assets/5e5894e7-c703-4772-9d33-a6b4d6e3b15f)" height="70" width="100%">
 <a><img src='[https://i.ibb.co/9N1sJ41/Manul-Ofc-X.gif](https://github.com/user-attachments/assets/5e5894e7-c703-4772-9d33-a6b4d6e3b15f)'/></a>
+
+
+
+
+
+
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗦𝗘𝗦𝗦𝗜𝗢𝗡+𝗜𝗗+𝗦𝗜𝗧𝗘+𝗜𝗦+𝗛𝗘𝗥𝗘)](https://git.io/typing-svg)
+[![Get Session ID 1 Here](https://img.shields.io/static/v1?label=Session%20ID&message=Generate&color=FF4500&style=for-the-badge&logo=firefox&logoColor=white)](https://megapair33-82637755f8cd.herokuapp.com/)
