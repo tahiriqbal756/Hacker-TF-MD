@@ -16,34 +16,14 @@ a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.c
 
 
 
- </p>
-  <p align="center">
-   <!-- Repo Views -->
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMRSHABAN40%2FSHABAN-SOBX-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Repo Views Badge">
- <a href="https://github.com/MRSHABAN40?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/MRSHABAN40?label=Followers&style=social"></a>
-<a href="https://github.com/MRSHABAN40/SHABAN-SOBX-MD/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/MRSHABAN40/SHABAN-SOBX-MD?&style=social"></a>
-<a href="https://github.com/MRSHABAN40/SHABAN-SOBX-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/MRSHABAN40/SHABAN-SOBX-MD?style=social"></a>
-<a href="https://github.com/MRSHABAN40/SHABAN-SOBX-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/MRSHABAN40/SHABAN-SOBX-MD?label=Watching&style=social"></a>
-<!-- Repo Size -->
-  <img src="https://img.shields.io/github/repo-size/MRSHABAN40/SHABAN-SOBX-MD?color=gold&label=Repo%20Size&style=plastic" alt="Repo Size">
-  <!-- Developer -->
-  <img src="https://img.shields.io/static/v1?label=OWNER&message=MR%20SHABAN&color=blue&style=plastic" alt="Developer Badge">
-</p>        
-
-<p align="center">
-  <a href="https://github.com/MRSHABAN40/SHABAN-SOBX-MD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v5-darkcyan.svg?style=for-the-badge&logo=appveyor" /></a>
+ </></a>
  
 [![Contact Me on WhatsApp](https://img.shields.io/static/v1?label=Contact%20Me%20on%20WhatsApp&message=Message&color=25D366&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923321709972)
 [![Follow My WhatsApp Channel](https://img.shields.io/static/v1?label=Follow%20My%20WhatsApp%20Channel&message=follow&color=25D366&style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VaqJhPt6hENl2eYTwd1i) 
 [![Subscribe to My Channel on YouTube](https://img.shields.io/static/v1?label=Subscribe%20to%20My%20Channel&message=YouTube&color=FF0000&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@mrshaban282?si=Mmp8uT0UZsRqvKnq)
 [![Follow My GitHub](https://img.shields.io/static/v1?label=Follow%20My%20GitHub&message=GitHub&color=181717&style=for-the-badge&logo=github&logoColor=white)](https://github.com/tahiriqbal756/Hacker-TF-MD.git)
 
-<a          href="https://github.com/MRSHABAN40/SHABAN-SOBX-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
-</p>
-<p align='center'>
- 
-![license](https://img.shields.io/github/license/MRSHABAN40/SHABAN-SOBX-MD?color=green&label=License&style=plastic)
-
+<a          
 
 ***BOT FEATURES 💌***
 
