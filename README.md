@@ -18,5 +18,12 @@ a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.c
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗦𝗘𝗦𝗦𝗜𝗢𝗡+𝗜𝗗+𝗦𝗜𝗧𝗘+𝗜𝗦+𝗛𝗘𝗥𝗘)](https://git.io/typing-svg)
-[![Get Session ID 1 Here](https://img.shields.io/static/v1?label=Session%20ID&message=Generate&color=FF4500&style=for-the-badge&logo=firefox&logoColor=white)](https://megapair33-82637755f8cd.herokuapp.com/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗗𝗘𝗣𝗟𝗢𝗬+𝗢𝗡+𝗛𝗘𝗥𝗢𝗞𝗨)](https://git.io/typing-svg)
+ [![Deploy to Heroku](https://img.shields.io/static/v1?label=Deploy%20to&message=Heroku&color=430098&style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/tahiriqbal756/Hacker-TF-MD.git)
+
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗗𝗘𝗣𝗟𝗢𝗬+𝗢𝗡+𝗛𝗨𝗚𝗚𝗜𝗡𝗚𝗙𝗔𝗖𝗘)](https://git.io/typing-svg)
+<p style="text-align: center; font-size: 1.2em;">
+  
+<p align="center">
+<a href='https://huggingface.co/spaces/mrshaban1/SHABAN-MD' target="_blank"><img alt='huggingface' src='https://img.shields.io/badge/-huggingface Deploy-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white'/< width=150 height=28/p></a> </a>
+
